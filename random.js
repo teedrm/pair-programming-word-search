@@ -34,4 +34,4 @@ const transpose = function (matrix) {
     ['U', 'B', 'T', 'W', 'A', 'P', 'A', 'I'],
     ['O', 'D', 'C', 'A', 'K', 'U', 'A', 'S'],
     ['E', 'Z', 'K', 'F', 'Q', 'U', 'A', 'L'],
-  ]));
+  ])); // FIND "FRANK" STARTING AT ROW 2 COL 5
